@@ -51,7 +51,7 @@ This project delivers an **unsupervised machine learning framework** that analyz
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -79,7 +79,7 @@ This project delivers an **unsupervised machine learning framework** that analyz
 │   └── 12_cluster_centroids_standardized_profiles.png
 └── README.md                              # Repository documentation
 ```
-### 🖼️ Saved Visual Plot Catalog (`./plots/`)
+### Saved Visual Plot Catalog (`./plots/`)
 
 | File Name | Description & Analytical Focus |
 |---|---|
