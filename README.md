@@ -55,10 +55,13 @@ This project delivers an **unsupervised machine learning framework** that analyz
 
 ```
 .
+.
 ├── Development_Clustering_Analysis.ipynb  # Master runnable Jupyter Notebook (end-to-end executed)
 ├── cluster_assignments_by_decade.csv      # Output dataset: Country cluster assignments (1964–2024)
 ├── requirements.txt                       # Python dependencies
 ├── Development-Clustering-Prompt-v2.md    # Project specification and analytical guidelines
+├── LICENSE                                # Porject license file
+├── CITATION.cff                           # Project citation file
 ├── data/                                  # Primary data directory (World Bank WDI)
 │   ├── WDICSV.csv                         # Raw indicator time-series (1960–2025)
 │   ├── WDICountry.csv                     # Country metadata (Region, Income Group)
@@ -78,6 +81,7 @@ This project delivers an **unsupervised machine learning framework** that analyz
 │   ├── 11_silhouette_longitudinal_cohesion.png
 │   └── 12_cluster_centroids_standardized_profiles.png
 └── README.md                              # Repository documentation
+
 ```
 ### Saved Visual Plot Catalog (`./plots/`)
 
