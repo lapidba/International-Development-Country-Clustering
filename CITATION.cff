@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "A 60-Year Longitudinal Machine Learning Study of Peer Nations, Structural Bottlenecks, and Socioeconomic Transitions Across Six Decades Using the World Bank World Development Indicators (WDI)"
+authors:
+  - family-names: "Singh"
+    given-names: "Arjun"
+date-released: 2026-08-17
+url: "https://github.com/lapidba/International-Development-Country-Clustering"
+repository-code: "https://github.com/lapidba/International-Development-Country-Clustering"
+version: 1.1.0
+keywords:
+  - machine learning
+  - longitudinal study
+  - World Bank
+  - World Development Indicators
+  - socioeconomic transitions
+  - peer nations
+license: MIT
