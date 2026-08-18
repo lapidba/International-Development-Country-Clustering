@@ -308,7 +308,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ### Citation
 ```bibtex
-@misc{Singh_Arjun, international_development_clustering,
+@misc{international_development_clustering,
 author = {Singh, Arjun},
 license = {MIT},
 month = aug,
