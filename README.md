@@ -302,13 +302,20 @@ jupyter notebook Development_Clustering_Analysis.ipynb
 ---
 
 
-## Citation
+## License & Citation
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+### Citation
 ```bibtex
-@misc{international_development_clustering_2026,
-  author = {Arjun Singh},
-  title = {Multidimensional International Development Country Clustering (1964--2024): A 60-Year Longitudinal Machine Learning Study},
-  year = {2026},
-  publisher = {GitHub},
-  howpublished = {\url{https://github.com/lapidba/International-Development-Country-Clustering}}
+@misc{Singh_Arjun, international_development_clustering,
+author = {Singh, Arjun},
+license = {MIT},
+month = aug,
+title = {{A 60-Year Longitudinal Machine Learning Study of Peer Nations, Structural Bottlenecks, and Socioeconomic Transitions Across Six Decades Using the World Bank World Development Indicators (WDI)}},
+url = {https://github.com/lapidba/International-Development-Country-Clustering},
+version = {1.1.0},
+year = {2026}
 }
+```
 ```
