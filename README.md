@@ -34,7 +34,7 @@
 
 ## Executive Overview
 
-For decades, international financial institutions (such as the World Bank and IMF) have categorized countries primarily through single-dimensional economic metrics—most notably **Gross National Income (GNI) per capita** (Low Income, Lower-Middle Income, Upper-Middle Income, and High Income).
+For decades, international financial institutions (such as the World Bank and IMF) have categorized countries primarily through single-dimensional economic metrics—most notably Gross National Income (GNI) per capita (Low Income, Lower-Middle Income, Upper-Middle Income, and High Income).
 
 While computationally simple, single-variable income thresholds obscure critical socioeconomic realities:
 1. **The Middle-Income Trap & Inequality:** Countries with similar per-capita GDP often exhibit starkly divergent public health resilience, educational attainment, and infrastructure maturity.
