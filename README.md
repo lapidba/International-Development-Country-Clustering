@@ -34,20 +34,20 @@
 
 ## Executive Overview
 
-For decades, international financial institutions (such as the World Bank and IMF) have categorized countries primarily through single-dimensional economic metrics—most notably Gross National Income (GNI) per capita (Low Income, Lower-Middle Income, Upper-Middle Income, and High Income).
+For decades, international financial institutions (such as the World Bank and IMF) have categorized countries primarily through single-dimensional economic metrics most notably Gross National Income (GNI) per capita (Low Income, Lower-Middle Income, Upper-Middle Income, and High Income).
 
 While computationally simple, single-variable income thresholds obscure critical socioeconomic realities:
 1. **The Middle-Income Trap & Inequality:** Countries with similar per-capita GDP often exhibit starkly divergent public health resilience, educational attainment, and infrastructure maturity.
 2. **Resource-Rich Asymmetries:** Mineral- and petroleum-dependent economies often achieve high statistical GDP per capita while suffering from underdeveloped human capital and institutional infrastructure.
 3. **Peer-Country Benchmarking:** Developing nations benefit significantly more from benchmarking policies against structural peers facing identical demographic or infrastructure constraints, rather than nations that merely share a GDP bracket.
 
-This project delivers an **unsupervised machine learning framework** that analyzes **217 sovereign nations** across **18 canonical indicators** in **5 foundational pillars of development** over a **60-year horizon (1964–2024)** divided into six 10-year intervals.
+This project delivers an unsupervised machine learning framework that analyzes 217 sovereign nations across 18 canonical indicators in 5 foundational pillars of development over a 60-year horizon (1964–2024) divided into six 10-year intervals.
 
 ---
 
 ## Research Question
 
-> **Can we identify distinct, multidimensional developmental clusters of countries using economic, health, and social indicators — and how have those clusters shifted across ten-year intervals from 1964 to 2024 — to reveal "peer nations" that share similar developmental challenges despite varying income levels?**
+> **Can we identify distinct, multidimensional developmental clusters of countries using economic, health, and social indicators and how have those clusters shifted across ten-year intervals from 1964 to 2024 to reveal "peer nations" that share similar developmental challenges despite varying income levels?**
 
 ---
 
@@ -308,7 +308,7 @@ jupyter notebook Development_Clustering_Analysis.ipynb
 
 ## License & Citation
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** see the [LICENSE](LICENSE) file for details.
 
 ### Citation
 ```bibtex
